@@ -1,0 +1,6 @@
+# Compilacion de IntelliJ
+out/
+
+# Configuracion local de cada equipo
+.idea/workspace.xml
+.idea/shelf/
